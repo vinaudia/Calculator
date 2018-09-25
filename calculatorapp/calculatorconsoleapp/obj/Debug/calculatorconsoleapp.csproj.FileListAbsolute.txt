@@ -1,0 +1,2 @@
+D:\Vina\Pemrograman\calculatorapp\calculatorconsoleapp\bin\Debug\calculatorconsoleapp.exe.config
+D:\Vina\Pemrograman\calculatorapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojResolveAssemblyReference.cache
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.Cache
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+D:\Vina\Pemrograman\calculatorapp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
